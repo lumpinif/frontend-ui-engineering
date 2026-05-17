@@ -1,0 +1,4 @@
+interface:
+  display_name: "Frontend UI Engineering"
+  short_description: "Build and review maintainable product UI"
+  default_prompt: "Use $frontend-ui-engineering to build or review a clear, accessible, maintainable product interface."
