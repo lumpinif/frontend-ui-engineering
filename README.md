@@ -13,6 +13,14 @@ This skill synthesizes and modernizes ideas from two excellent open-source front
 
 This repository does not redistribute either guide as copied source material. It adapts shared principles into a modern frontend UI engineering guideline written in its own structure and wording.
 
+## Installation
+
+Install with [skills.sh](https://skills.sh/):
+
+```bash
+npx skills add lumpinif/frontend-ui-engineering
+```
+
 ## What This Skill Optimizes For
 
 - Semantic, accessible HTML before ARIA or custom widgets.
